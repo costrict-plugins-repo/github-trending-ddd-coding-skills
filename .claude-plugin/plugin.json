@@ -1,0 +1,23 @@
+{
+  "name": "ddd-coding-skills",
+  "description": "Usability-first DDD roadmap and progressive development with compact controller contracts",
+  "version": "4.0.0",
+  "author": {
+    "name": "Litecore AI",
+    "url": "https://github.com/litecore-ai"
+  },
+  "homepage": "https://github.com/litecore-ai/ddd-coding-skills",
+  "repository": "https://github.com/litecore-ai/ddd-coding-skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "ddd",
+    "domain-driven-design",
+    "tdd",
+    "compatibility",
+    "roadmap",
+    "automation",
+    "vertical-slice",
+    "progressive-development"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "name": "ddd-coding-skills",
+  "version": "4.0.0",
+  "type": "module",
+  "bin": {
+    "roadmapctl": "./bin/roadmapctl.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "check": "node --test && node scripts/check-skill-contracts.mjs"
+  },
+  "description": "Usability-first DDD planning and progressive development with compact controller contracts",
+  "keywords": [
+    "skills",
+    "ddd",
+    "domain-driven-design",
+    "tdd",
+    "compatibility",
+    "roadmap",
+    "best-practices",
+    "workflows",
+    "automation",
+    "deterministic",
+    "vertical-slice",
+    "progressive-development"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litecore-ai/ddd-coding-skills.git"
+  },
+  "homepage": "https://github.com/litecore-ai/ddd-coding-skills",
+  "bugs": {
+    "url": "https://github.com/litecore-ai/ddd-coding-skills/issues"
+  },
+  "author": {
+    "name": "Litecore AI",
+    "url": "https://github.com/litecore-ai"
+  }
+}
